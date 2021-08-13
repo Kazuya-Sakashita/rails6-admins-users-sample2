@@ -23,3 +23,6 @@ Things you may want to cover:
 
 * ...
 # rails6-admins-users-sample2
+
+参考HP
+https://qiita.com/d0ne1s/items/99b4dc02ba640bfafe0a
